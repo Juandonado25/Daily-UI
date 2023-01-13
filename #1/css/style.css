@@ -1,0 +1,94 @@
+body {
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+
+h1 {
+    margin-bottom: 0;
+}
+
+h2,
+h3,
+h4 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 0.8rem;
+}
+
+/* Navbar section */
+
+.navbar {
+    padding: 0%;
+}
+
+.navbar-brand {
+    font-family: "Anton", sans-serif;
+    font-size: 1.5rem;
+    margin-left: 3%;
+    padding: 0;
+}
+
+.nav-link {
+    margin-right: 2rem;
+    font-family: "Montserrat", sans-serif;
+}
+
+/* Sign up */
+
+.form-signin {
+    max-width: 330px;
+    padding: 15px;
+
+}
+
+.custom-form {
+    margin: 75px 0;
+}
+
+.custom-button {
+    background-color: #DC5F00;
+    color: #fff;
+    width: 300px;
+}
+
+.sign-element-padding {
+    padding: 5% 0;
+}
+
+.reset-link {
+    text-decoration: none;
+    font-size: 0.8rem
+}
+
+/* image side */
+
+#customsign {
+    padding: 2%;
+}
+
+.cat-image {
+    position: absolute;
+    z-index: -1;
+}
+
+.adopt-msg {
+    font-family: "Montserrat", sans-serif;
+    font-size: 3rem;
+    font-weight: 700;
+    margin-bottom: 0;
+}
+
+.image-text {
+    color: white;
+    border: solid;
+    border-color: white;
+    border-radius: 10px;
+    border-width: 0.5rem;
+    width: 370px;
+    position: relative;
+    top: 350px;
+    left: 150px;
+}
